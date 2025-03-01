@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor of Computer Applications (BCA) degree My jour
 
 * 🌍  I'm based in Kathmandu
 * ✉️  You can contact me at [rawaldallakoti@gmail.com](mailto:rawaldallakoti@gmail.com)
-* 🧠  I'm learning Node Express React Tailwind
+* 🧠  I'm Exploring Machine Learning
 * 🤝  I'm open to collaborating on interesting react projects
 
 <a href="https://www.github.com/Rawal77" target="_blank" rel="noreferrer"><img
