@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rawal Dallakoti
 =======================================================================================================================================
 
-Web Developer
+ ML&MERN ENTHUSIAST
 -------------
 
 I am currently pursuing a Bachelor of Computer Applications (BCA) degree My journey in the world of technology has been marked by a deep curiosity and a commitment to learning and growth.
